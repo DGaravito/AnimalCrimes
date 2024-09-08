@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d08c0374-75e5-4505-aec3-00e37d9e292b" name="Changes" comment="Created setup, main file, combine file, and directories for data and scripts">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d08c0374-75e5-4505-aec3-00e37d9e292b" name="Changes" comment="Added data and basic functions">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/combine.py" beforeDir="false" afterPath="$PROJECT_DIR$/combine.py" afterDir="false" />
     </list>
@@ -77,12 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725661602198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added data and basic functions">
+      <option name="closed" value="true" />
+      <created>1725819820299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725819820299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created repository and project" />
     <MESSAGE value="Created setup, main file, combine file, and directories for data and scripts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created setup, main file, combine file, and directories for data and scripts" />
+    <MESSAGE value="Added data and basic functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added data and basic functions" />
   </component>
 </project>
